@@ -1,0 +1,7 @@
+Dataset: UK Road Safety Data (DfT)
+
+Download link:
+https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-last-5-years.csv
+
+Note:
+Dataset is not included due to large size (~94 MB).
